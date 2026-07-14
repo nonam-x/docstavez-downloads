@@ -13,7 +13,7 @@ This repository is dedicated to distributing the latest Android APK releases of 
 
 Download the latest Android APK from the **Releases** section.
 
-➡️ https://github.com/YOUR_USERNAME/docstavez-releases/releases/latest
+➡️ https://github.com/nonam-x/docstavez-downloads/releases/tag/v1.0.0
 
 ---
 
